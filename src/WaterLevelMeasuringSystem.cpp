@@ -14,17 +14,17 @@ void loop() {
   int waterLevel = analogRead(waterSensorPin);
 
   if (waterLevel < 500) {
-    digitalWrite(redLedPin, LOW);
+    digitalWrite(redLedPin, HIGH);
     digitalWrite(yellowLedPin, LOW);
-    digitalWrite(greenLedPin, HIGH);
+    digitalWrite(greenLedPin, LOW);
   } else if (waterLevel >= 500 && waterLevel < 750) {
     digitalWrite(redLedPin, LOW);
     digitalWrite(yellowLedPin, HIGH);
     digitalWrite(greenLedPin, LOW);
   } else {
-    digitalWrite(redLedPin, HIGH);
+    digitalWrite(redLedPin, LOW);
     digitalWrite(yellowLedPin, LOW);
-    digitalWrite(greenLedPin, LOW);
+    digitalWrite(greenLedPin, HIGH);
   }
 
   delay(100);
