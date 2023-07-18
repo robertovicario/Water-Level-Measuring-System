@@ -14,32 +14,13 @@ The system operates by sensing the water level using the water sensor connected 
 
 To utilize the Water Level Measuring System, kindly adhere to the following guidelines:
 
-1. Construct the circuit by using the provided components and diagram.
+1. Construct the circuit by using the provided:
+   - [Components](components.csv)
+   - [Wired Diagram](wired_diagram.jpg)
 2. Retrieve the project repository.
 3. Launch Arduino IDE and establish a connection with your Arduino.
 4. Upload the source code at `src/WaterLevelMeasuringSystem.cpp`.
 5. Ensure that your Arduino remains connected to a power source for the code to execute properly.
-
-## Components
-
-| Name  | Quantity | Component |
-|-------|----------|-----------|
-| U1 | 1 | Arduino Uno R3 |
-| SEN1 | 1 | Water Sensor |
-| D1 | 1 | Red LED |
-| D2 | 1 | Yellow LED |
-| D3 | 1 | Green LED |
-| R1, R2, R3 | 3 | 220 Ω Resistor |
-
-## Wiring Diagram
-
-<img width="512" alt="wiring_diagram" src="https://github.com/roberrevil/Water-Level-Measuring-System/assets/119845903/fc0e8c00-8bb1-4ac5-aafa-6dc15e5fa2c1">
-
-## Source Code
-
-Click to download:
-
-- <a href="src/WaterLevelMeasuringSystem.cpp" download>WaterLevelMeasuringSystem.cpp</a>
 
 ## License
 
