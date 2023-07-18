@@ -22,7 +22,7 @@ To utilize the Water Level Measuring System, kindly adhere to the following guid
 2. Retrieve the project repository.
 3. Launch Arduino IDE and establish a connection with Arduino.
 4. Upload the [source code](src/WaterLevelMeasuringSystem.cpp).
-5. Ensure that your Arduino remains connected to a power source for the code to execute properly.
+5. Ensure that Arduino remains connected to a power source to execute properly.
 
 ## License
 
