@@ -2,7 +2,7 @@
 
 ## Description
 
-Measure and monitor the water level in a container or reservoir. This project utilizes an Arduino Uno R3 microcontroller, a water sensor, and a set of LEDs to indicate the water level. The system operates by sensing the water level using the water sensor connected to the Arduino Uno R3. The Arduino processes the sensor data and controls the LEDs accordingly. The red LED indicates a low water level, the yellow LED indicates a medium water level, and the green LED indicates a high water level.
+Measure and monitor the water level in a container or reservoir. This project utilizes an Arduino Uno R3 microcontroller, a water sensor, and a set of LEDs to indicate the water level.
 
 ## Circuit
 
