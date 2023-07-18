@@ -1,4 +1,4 @@
-# Arduino Water Level Measuring System
+# Water Level Measuring System
 
 ## Description
 
@@ -8,7 +8,7 @@ The system operates by sensing the water level using the water sensor, which is 
 
 ## Circuit
 
-<img width="512" alt="circuit" src="https://github.com/roberrevil/Water-Level-Measuring-System/assets/119845903/e43c135a-d7dc-415f-b59a-f4cd74999a5d">
+<img width="512" alt="circuit" src="https://github.com/roberrevil/Arduino-Water-Level-Measuring-System/assets/119845903/91b250ff-7990-4800-bad3-25b59325c60d">
 
 ## Wiring Diagram
 
