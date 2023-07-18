@@ -10,10 +10,6 @@ The system operates by sensing the water level using the water sensor, which is 
 
 <img width="512" alt="circuit" src="https://github.com/roberrevil/Arduino-Water-Level-Measuring-System/assets/119845903/91b250ff-7990-4800-bad3-25b59325c60d">
 
-## Wiring Diagram
-
-<img width="512" alt="wiring_diagram" src="https://github.com/roberrevil/Water-Level-Measuring-System/assets/119845903/fc0e8c00-8bb1-4ac5-aafa-6dc15e5fa2c1">
-
 ## Components
 
 | Name  | Quantity | Component |
@@ -24,6 +20,10 @@ The system operates by sensing the water level using the water sensor, which is 
 | D2 | 1 | Yellow LED |
 | D3 | 1 | Green LED |
 | R1, R2, R3 | 3 | 220 Ω Resistor |
+
+## Wiring Diagram
+
+<img width="512" alt="wiring_diagram" src="https://github.com/roberrevil/Water-Level-Measuring-System/assets/119845903/fc0e8c00-8bb1-4ac5-aafa-6dc15e5fa2c1">
 
 ## License
 
