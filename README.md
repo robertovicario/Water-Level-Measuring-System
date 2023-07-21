@@ -6,7 +6,7 @@ Measure and monitor the water level in a container or reservoir. This project ut
 
 ## Circuit
 
-<img width="512" alt="circuit" src="https://github.com/roberrevil/Arduino-Water-Level-Measuring-System/assets/119845903/91b250ff-7990-4800-bad3-25b59325c60d">
+<img width="512" alt="circuit" src="circuit.jpg">
 
 ## Instructions
 
